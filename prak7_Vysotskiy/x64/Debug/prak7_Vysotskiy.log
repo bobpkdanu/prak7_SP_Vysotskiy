@@ -1,0 +1,6 @@
+﻿  prak7_Vysotskiy.cpp
+C:\Users\st310-08\Desktop\Vysotskiy_PR32\systemnoprog\prak7_1_Vysotskiy\prak7_Vysotskiy\prak7_Vysotskiy.cpp(46,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\st310-08\Desktop\Vysotskiy_PR32\systemnoprog\prak7_1_Vysotskiy\prak7_Vysotskiy\prak7_Vysotskiy.cpp(47,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\st310-08\Desktop\Vysotskiy_PR32\systemnoprog\prak7_1_Vysotskiy\prak7_Vysotskiy\prak7_Vysotskiy.cpp(48,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\st310-08\Desktop\Vysotskiy_PR32\systemnoprog\prak7_1_Vysotskiy\prak7_Vysotskiy\prak7_Vysotskiy.cpp(49,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  prak7_Vysotskiy.vcxproj -> C:\Users\st310-08\Desktop\Vysotskiy_PR32\systemnoprog\prak7_1_Vysotskiy\prak7_Vysotskiy\x64\Debug\prak7_Vysotskiy.exe

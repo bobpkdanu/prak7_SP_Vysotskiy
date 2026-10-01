@@ -1,0 +1,10 @@
+War and peace|Lev Tolstoy|1869|1001|1
+Crime and punishment|Fedor Dostoevskiy|1866|1002|0
+Master and Margarita|Michael Bulgakov|1967|1003|1
+Evgeniy Onegin|Alexander Pushkin|1833|1004|1
+Mtsiry|Michael Lermontov|1840|1005|1
+Dubrovskiy|Alexander Pushkin|1833|1006|1
+Dead souls|Nikolay Gogol|1842|1007|1
+Anna Karenina|Lev Tolstoy|1877|1008|1
+Captain's daughter|Alexander Pushkin|1836|1009|1
+The Tale of Tsar Sultan|Alexander Pushkin|1831|1010|0
